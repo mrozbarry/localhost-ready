@@ -1,0 +1,13 @@
+{
+  "name": "localhost-ready",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "Alex Barry",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ./src/index.js"
+  },
+  "bin": {
+    "localhost-ready": "./src/index.js"
+  }
+}
